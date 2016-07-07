@@ -60,7 +60,7 @@ HBO Comedy 	I506.59839.schedulesdirect.org
 HBO EAST HD	I501.19548.schedulesdirect.org
 HBO SIGNATURE HD	I503.10243.schedulesdirect.org
 HGTV	I229.49788.schedulesdirect.org
-HISTORY Hd	I269.57708.schedulesdirect.org
+History Hd	I269.57708.schedulesdirect.org
 ID HD	I528.26884.schedulesdirect.org
 IFC HD	I330.26786.schedulesdirect.org
 LIFE HD	I1707.81202.schedulesdirect.org
@@ -71,8 +71,8 @@ MSNBC	I356.64241.schedulesdirect.org
 MTV HD	I160.10986.schedulesdirect.org
 NAT GEO HD	I524.26882.schedulesdirect.org
 NAT GEO Wild	I283.67331.schedulesdirect.org
-NBC HD EAST	I392.20459.schedulesdirect.org
-NBC HD WEST	I393.10590.schedulesdirect.org
+NBC EAST HD	I392.20459.schedulesdirect.org
+NBC WEST HD	I393.10590.schedulesdirect.org
 NICKELODEON HD	I299.59432.schedulesdirect.org
 OMNI 1 HD	I215.10105.schedulesdirect.org
 OMNI 2 HD	I1056.44790.schedulesdirect.org
@@ -119,13 +119,13 @@ STARZ Comedy	I528.57569.schedulesdirect.org
 STARZ Black	I530.67235.schedulesdirect.org
 STARZ Edge	I529.16311.schedulesdirect.org
 STARZ	I525.12719.schedulesdirect.org
-STARZ Kidz	I527.57581.schedulesdirect.org
+STARZ Kids	I527.57581.schedulesdirect.org
 SYFY HD	I244.58623.schedulesdirect.org
 TBS HD	I247.58515.schedulesdirect.org
 TCM EAST HD	I256.12852.schedulesdirect.org
 Turner Classic Movies	I292.48815.schedulesdirect.org
 TLC	I1603.60645.schedulesdirect.org
-TNT	I245.11164.schedulesdirect.org
+TNT 	I245.11164.schedulesdirect.org
 Travel HD	I277.11180.schedulesdirect.org
 Treehouse	I1640.80173.schedulesdirect.org
 Thrillermax	I522.59954.schedulesdirect.org
@@ -145,7 +145,7 @@ YTV HD	I551.12045.schedulesdirect.org
 HUSTLER	I497.65224.schedulesdirect.org
 PLAYBOY HD	I589.76898.schedulesdirect.org
 VIVID TV	I598.79566.schedulesdirect.org
-BEIN HD	I620.76950.schedulesdirect.org
+BEIN SPORTS	I620.76950.schedulesdirect.org
 BT SPORTS ESPN	I458.46594.schedulesdirect.org
 BT Sports EU	I433.95771.schedulesdirect.org
 CBS Sports	I221.16365.schedulesdirect.org
@@ -182,7 +182,7 @@ TSN 2	I1401.61474.schedulesdirect.org
 TSN 3	I1402.90119.schedulesdirect.org
 TSN 4	I1403.90123.schedulesdirect.org
 TSN 5	I1404.90125.schedulesdirect.org
-WILLOW CRICKET HD	I2024.68605.schedulesdirect.org
+WILLOW CRICKET HD 	I2024.68605.schedulesdirect.org
 WWE	I1446.91306.schedulesdirect.org
 Yankees HD	I631.46275.schedulesdirect.org
 ABC NEWS	1.webgrab
@@ -203,3 +203,6 @@ CTH 4 HD	15.webgrab
 CTH 5 HD	16.webgrab
 CTH XD HD	17.webgrab
 MLB NETWORK	I213.62079.schedulesdirect.org
+Action Movies HD	I334.24031.schedulesdirect.org
+Investigation Discovery	I522.62496.schedulesdirect.org
+LMN HD	I253.55887.schedulesdirect.org
