@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+    <!-- General -->
+    <category id="general" label="32010">
+        <setting id="pluginmissing" type="bool" default="false" visible="false"/>
+        <setting label="33003" type="lsep" visible="eq(-1,true)"/>
+        <setting id="username" type="text" label="33000" default="" visible="eq(-2,true)"/>
+        <setting id="password" type="text" label="33001" default="" visible="eq(-3,true)"/>
+        <setting id="mergem3u" type="bool" label="33005" default="false"/>
+        <setting id="mergem3u_fn" type="file" label="33006" default="" visible="eq(-1,true)"/>
+        <setting id="timezone" type="slider" label="33002" range="-12,0.25,12" default="0" option="float"/>
+        <setting id="debug" type="bool" label="32100" default="false"/>
+        <setting id="offset1hr" type="bool" label="32101" default="false" visible="false"/>
+        <setting id="install_keyboard_file" type="bool" label="32102" default="false"/>
+
+      		<setting id="enable_scheduler" type="bool" label="30060" default="true" enable="true"/>
+      		<setting id="schedule_interval" type="enum" label="30061" lvalues="30079|30072|30073|30074|30075" default="1" enable="eq(-1,true)" visible="false"/>
+      		<setting id="schedule_time" type="labelenum" label="30062" values="00:00|01:00|02:00|03:00|04:00|05:00|06:00|07:00|08:00|09:00|10:00|11:00|12:00|13:00|14:00|15:00|16:00|17:00|18:00|19:00|20:00|21:00|22:00|23:00" default="02:00" visible="false"  enable="eq(-2,true)" />
+      		<setting id="day_of_week" type="enum" label="30063" lvalues="30065|30066|30067|30068|30069|30070|30071" default="0" visible="eq(-2,2)"  enable="eq(-3,true)" />
+      		<setting id="cron_schedule" type="text" label="30064" default="0 0 * * *" visible="false"  enable="eq(-4,true)" />
+    </category>
+    <category id="Groups" label="40000">
+        <setting id="English" type="bool" label="40001" default="true"/>
+        <setting id="Sports" type="bool" label="40002" default="true"/>
+        <setting id="Adults" type="bool" label="40003" default="false"/>
+        <setting id="AFRICAN" type="bool" label="40004" default="false"/>
+        <setting id="BANGLA" type="bool" label="40005" default="false"/>
+        <setting id="French" type="bool" label="40006" default="false"/>
+        <setting id="HINDI" type="bool" label="40007" default="false"/>
+        <setting id="Italian" type="bool" label="40008" default="false"/>
+        <setting id="PERSIAN/KURDISH" type="bool" label="40010" default="false"/>
+        <setting id="Polish" type="bool" label="40011" default="false"/>
+        <setting id="PORTUGUESE" type="bool" label="40012" default="false"/>
+        <setting id="PUNJABI" type="bool" label="40013" default="false"/>
+        <setting id="SOUTH INDIAN" type="bool" label="40014" default="false"/>
+        <setting id="Spanish" type="bool" label="40015" default="false"/>
+        <setting id="URDU" type="bool" label="40016" default="false"/>
+        <setting id="Vietnamese" type="bool" label="40017" default="false"/>
+        <setting id="Chinese" type="bool" label="40018" default="false"/>
+        <setting id="EUROPEAN/BALKANS" type="bool" label="40019" default="false"/>
+        <setting id="Filipino" type="bool" label="40020" default="false"/>
+    </category>
+
+</settings>

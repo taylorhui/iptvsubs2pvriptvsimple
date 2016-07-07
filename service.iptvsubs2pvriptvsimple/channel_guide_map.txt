@@ -1,0 +1,205 @@
+5Starmax	I515.10120.schedulesdirect.org
+AE	I265.51529.schedulesdirect.org
+ABC EAST HD	I396.20453.schedulesdirect.org
+ABC WEST HD	I397.10309.schedulesdirect.org
+Action	I334.26769.schedulesdirect.org
+Actionmax	I519.59948.schedulesdirect.org
+AMC	I254.59337.schedulesdirect.org
+Animal Planet HD	I1612.74041.schedulesdirect.org
+BBC AMERICA	I264.64492.schedulesdirect.org
+Sky BBC Four HD	I116.83282.schedulesdirect.org
+Sky BBC News	I570.19037.schedulesdirect.org
+Sky BBC One HD	I141.69387.schedulesdirect.org
+Sky BBC Two HD	I142.50059.schedulesdirect.org
+BC1	I216.287240272.microsoft.com
+BET HD	I329.63236.schedulesdirect.org
+Bloomberg	I353.14755.schedulesdirect.org
+BNN	I504.20709.schedulesdirect.org
+Bravo	I237.10057.schedulesdirect.org
+CBC Vancouver	I1150.51981.schedulesdirect.org
+CBS East HD	I390.16689.schedulesdirect.org
+CBS WEST HD	I391.19567.schedulesdirect.org
+CTV NORTH	I221.10118.schedulesdirect.org
+Cinemax East	I515.34933.schedulesdirect.org
+City Vancouver	I1153.67476.schedulesdirect.org
+Cartoon Network	I296.12131.schedulesdirect.org
+Discovery Science	I1606.76887.schedulesdirect.org
+Disney HD East	I290.59684.schedulesdirect.org
+Hallmark HD	I312.66268.schedulesdirect.org
+HLN	I1579.64549.schedulesdirect.org
+HSN	I240.10269.schedulesdirect.org
+HSN 2	I226.10270.schedulesdirect.org
+CBC EAST	I210.10091.schedulesdirect.org
+CBC NEWS HD	I1564.75971.schedulesdirect.org
+CBS NEWS	I1202.20431.schedulesdirect.org
+CCTV NEWS	I2119.29114.schedulesdirect.org
+CHCH HD	I1057.60123.schedulesdirect.org
+CITY TV HD	I1053.34200.schedulesdirect.org
+CNBC HD	I355.58780.schedulesdirect.org
+CNN	I202.58646.schedulesdirect.org
+COMEDY NETWORK HD	I1740.76863.schedulesdirect.org
+Cp24	I1566.94289.schedulesdirect.org
+CTV East HD	I1051.44784.schedulesdirect.org
+CTV Vancouver	I1151.44786.schedulesdirect.org
+Encore Western	I538.14765.schedulesdirect.org
+CW11 HD	I1232.20455.schedulesdirect.org
+DISCOVERY HD	I520.15098.schedulesdirect.org
+DISNEY XD HD	I292.18279.schedulesdirect.org
+Disney HD East	I290.10171.schedulesdirect.org
+E	I236.61812.schedulesdirect.org
+Family HD	I1642.70520.schedulesdirect.org
+FOOD	I1706.73467.schedulesdirect.org
+Fox HD East	I398.20360.schedulesdirect.org
+FOX WEST HD	I399.10741.schedulesdirect.org
+FOX NEWS HD	I360.60179.schedulesdirect.org
+FX HD	I9475.58574.schedulesdirect.org
+FXX HD	I9520.66379.schedulesdirect.org
+GLOBAL EAST HD	I1052.44792.schedulesdirect.org
+Global BC	I1152.60121.schedulesdirect.org
+HBO Comedy 	I506.59839.schedulesdirect.org
+HBO EAST HD	I501.19548.schedulesdirect.org
+HBO SIGNATURE HD	I503.10243.schedulesdirect.org
+HGTV	I229.49788.schedulesdirect.org
+HISTORY Hd	I269.57708.schedulesdirect.org
+ID HD	I528.26884.schedulesdirect.org
+IFC HD	I330.26786.schedulesdirect.org
+LIFE HD	I1707.81202.schedulesdirect.org
+Moremax East	I517.59373.schedulesdirect.org
+LIFETIME MOVIES HD	I253.55887.schedulesdirect.org
+MOVIE TIME	I1285.67190.schedulesdirect.org
+MSNBC	I356.64241.schedulesdirect.org
+MTV HD	I160.10986.schedulesdirect.org
+NAT GEO HD	I524.26882.schedulesdirect.org
+NAT GEO Wild	I283.67331.schedulesdirect.org
+NBC HD EAST	I392.20459.schedulesdirect.org
+NBC HD WEST	I393.10590.schedulesdirect.org
+NICKELODEON HD	I299.59432.schedulesdirect.org
+OMNI 1 HD	I215.10105.schedulesdirect.org
+OMNI 2 HD	I1056.44790.schedulesdirect.org
+OWN TV	I189.70387.schedulesdirect.org
+PBS HD	I1204.28055.schedulesdirect.org
+Showcase HD	I1726.53711.schedulesdirect.org
+SHOWTIME EAST	I545.21868.schedulesdirect.org
+SHOWTIME SHOWCASE HD	I548.61001.schedulesdirect.org
+Sky Disney JR	I628.24761.schedulesdirect.org
+DISNEY XD HD	I607.69352.schedulesdirect.org
+Sky Disney XD	I607.69352.schedulesdirect.org
+SKY NEWS HD	I501.67040.schedulesdirect.org
+SKY NICK (UK)	I632.17419.schedulesdirect.org
+Slice	I1704.81282.schedulesdirect.org
+SPIKE HD	I241.59186.schedulesdirect.org
+SUNDANCE HD	I557.71280.schedulesdirect.org
+Sky Alibi	I226.21258.schedulesdirect.org
+Sky Animal	I562.20707.schedulesdirect.org
+Sky Channel 4	I974.17155.schedulesdirect.org
+Sky Channel 5	I171.50717.schedulesdirect.org
+Sky Dave	I213.24305.schedulesdirect.org
+Sky Discovery	I520.49613.schedulesdirect.org
+Sky Discovery History	I535.24280.schedulesdirect.org
+Sky Discovery Science	I525.24282.schedulesdirect.org
+Sky Discovery Shed	I242.47455.schedulesdirect.org
+Sky Crime Investigation	I522.62496.schedulesdirect.org
+Sky Film 4	I342.21494.schedulesdirect.org
+Sky Gold	I110.17442.schedulesdirect.org
+Sky Home UK	I196.21257.schedulesdirect.org
+Sky Movie Romance	I303.61179.schedulesdirect.org
+Sky Movies Action	I334.24031.schedulesdirect.org
+Sky Movies Comedy	I308.61182.schedulesdirect.org
+Sky Movies Disney	I332.24034.schedulesdirect.org
+Sky Movies Family	I333.24040.schedulesdirect.org
+Sky Movies Premier	I314.21107.schedulesdirect.org
+Sky Movies Science	I311.61178.schedulesdirect.org
+Sky Natgeo	I543.21592.schedulesdirect.org
+Sky Yesterday	I537.31783.schedulesdirect.org
+Sky itv1	I178.50523.schedulesdirect.org
+Sky itv2	I118.69228.schedulesdirect.org
+Sky itv3	I263.44643.schedulesdirect.org
+Sky itv4	I268.48020.schedulesdirect.org
+STARZ Comedy	I528.57569.schedulesdirect.org
+STARZ Black	I530.67235.schedulesdirect.org
+STARZ Edge	I529.16311.schedulesdirect.org
+STARZ	I525.12719.schedulesdirect.org
+STARZ Kidz	I527.57581.schedulesdirect.org
+SYFY HD	I244.58623.schedulesdirect.org
+TBS HD	I247.58515.schedulesdirect.org
+TCM EAST HD	I256.12852.schedulesdirect.org
+Turner Classic Movies	I292.48815.schedulesdirect.org
+TLC	I1603.60645.schedulesdirect.org
+TNT	I245.11164.schedulesdirect.org
+Travel HD	I277.11180.schedulesdirect.org
+Treehouse	I1640.80173.schedulesdirect.org
+Thrillermax	I522.59954.schedulesdirect.org
+Tru TV HD	I246.64490.schedulesdirect.org
+TV LAND HD	I304.73541.schedulesdirect.org
+USA Network	I242.58452.schedulesdirect.org
+VH1 HD	I335.11218.schedulesdirect.org
+Viceland	I271.65732.schedulesdirect.org
+Vision	I261.11220.schedulesdirect.org
+Velocity	I281.31046.schedulesdirect.org
+W MOVIES	I1305.71348.schedulesdirect.org
+W Network HD	I1705.71332.schedulesdirect.org
+WE TV HD	I260.59296.schedulesdirect.org
+Weather Canada HD	I505.10170.schedulesdirect.org
+WEATHER USA HD	I362.11187.schedulesdirect.org
+YTV HD	I551.12045.schedulesdirect.org
+HUSTLER	I497.65224.schedulesdirect.org
+PLAYBOY HD	I589.76898.schedulesdirect.org
+VIVID TV	I598.79566.schedulesdirect.org
+BEIN HD	I620.76950.schedulesdirect.org
+BT SPORTS ESPN	I458.46594.schedulesdirect.org
+BT Sports EU	I433.95771.schedulesdirect.org
+CBS Sports	I221.16365.schedulesdirect.org
+ESPN 2 US	I209.45507.schedulesdirect.org
+ESPN 1	I206.32645.schedulesdirect.org
+Fox Sport 1	I219.82541.schedulesdirect.org
+Fox Sport 2	I618.33178.schedulesdirect.org
+Golf HD	I218.14899.schedulesdirect.org
+Gol TV (ES)	I468.32161.schedulesdirect.org
+NBA TV	I216.45526.schedulesdirect.org
+NBC Sports Network US	I159.15952.schedulesdirect.org
+NHL NETWORK HD	I215.58570.schedulesdirect.org
+PREMIER SPORTS	I462.54139.schedulesdirect.org
+Prime Tv ( PSL Cricket )	I792.24684.schedulesdirect.org
+BT Sports 1	I413.82447.schedulesdirect.org
+BT Sports 2	I417.82449.schedulesdirect.org
+Sky Box Nation	I437.73823.schedulesdirect.org
+SKY CHELSEA TV	I422.26978.schedulesdirect.org
+SKY MUTV	I453.21813.schedulesdirect.org
+Sky Sports 1	I402.49609.schedulesdirect.org
+Sky Sports 2	I435.19036.schedulesdirect.org
+Sky Sports 3	I404.59533.schedulesdirect.org
+Sky Sports 4	I405.67695.schedulesdirect.org
+Sky Sports 5	I406.89363.schedulesdirect.org
+Sportsnet 360	I410.20203.schedulesdirect.org
+Sportsnet One	I1409.68859.schedulesdirect.org
+Sportsnet Ont	I1405.62111.schedulesdirect.org
+Sportsnet World	I1414.68946.schedulesdirect.org
+Sky Sports F1	I451.74410.schedulesdirect.org
+Sky Sports News HD	I401.68347.schedulesdirect.org
+Tennis HD	I217.33395.schedulesdirect.org
+TSN 1	I1400.34313.schedulesdirect.org
+TSN 2	I1401.61474.schedulesdirect.org
+TSN 3	I1402.90119.schedulesdirect.org
+TSN 4	I1403.90123.schedulesdirect.org
+TSN 5	I1404.90125.schedulesdirect.org
+WILLOW CRICKET HD	I2024.68605.schedulesdirect.org
+WWE	I1446.91306.schedulesdirect.org
+Yankees HD	I631.46275.schedulesdirect.org
+ABC NEWS	1.webgrab
+RT DOCUMENTRY HD	2.webgrab
+ASTRO CRICKET HD	3.webgrab
+Arena Sports 1	4.webgrab
+Arena Sports 2	5.webgrab
+Arena Sports 3	6.webgrab
+Arena Sports 4	7.webgrab
+Super Sport 4	8.webgrab
+Super Sport 1	9.webgrab
+Super Sport 2	10.webgrab
+Super Sport 3	11.webgrab
+CTH 1 HD	12.webgrab
+CTH 2 HD	13.webgrab
+CTH 3 HD	14.webgrab
+CTH 4 HD	15.webgrab
+CTH 5 HD	16.webgrab
+CTH XD HD	17.webgrab
+MLB NETWORK	I213.62079.schedulesdirect.org

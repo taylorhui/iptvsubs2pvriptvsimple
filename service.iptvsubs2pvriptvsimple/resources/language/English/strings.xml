@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<strings>
+    <!-- General -->
+    <string id="33000">Username</string>
+    <string id="33001">Password</string>
+    <string id="33002">Time Zone Offset</string>
+    <string id="33003">IPTVSubs Login</string>
+    <string id="33005">Merge M3U File</string>
+    <string id="33006">M3U Path</string>
+    <string id="32100">Enable debug mode</string>
+    <string id="32101">Get offset -1 hour</string>
+    <string id="32102">Install keyboard.xml file</string>
+    <string id="30010">Amount of time between updates (hours)</string>
+    <string id="30060">Enable Scheduler</string>
+    <string id="30061">Schedule</string>
+    <string id="30062">Hour of Day</string>
+    <string id="30063">Day of Week</string>
+    <string id="30064">Cron Schedule</string>
+    <string id="30065">Sunday</string>
+    <string id="30066">Monday</string>
+    <string id="30067">Tuesday</string>
+    <string id="30068">Wednesday</string>
+    <string id="30069">Thursday</string>
+    <string id="30070">Friday</string>
+    <string id="30071">Saturday</string>
+    <string id="30072">Every Day</string>
+    <string id="30073">Every Week</string>
+    <string id="30074">First Day of Month</string>
+    <string id="30075">Custom Schedule</string>
+    <string id="30079">Just Today</string>
+    <string id="40000">Groups</string>
+    <string id="40001">English</string>
+    <string id="40002">Sports</string>
+    <string id="40003">Adults</string>
+    <string id="40004">AFRICAN</string>
+    <string id="40005">BANGLA</string>
+    <string id="40006">French</string>
+    <string id="40007">Hindi</string>
+    <string id="40008">Italian</string>
+    <string id="40010">PERSIAN/KURDISH</string>
+    <string id="40011">Polish</string>
+    <string id="40012">PORTUGUESE</string>
+    <string id="40013">PUNJABI</string>
+    <string id="40014">SOUTH INDIAN</string>
+    <string id="40015">Spanish</string>
+    <string id="40016">URDU</string>
+    <string id="40017">Vietnamese</string>
+    <string id="40018">Chinese</string>
+    <string id="40019">EUROPEAN/BALKANS</string>
+    <string id="40020">Filipino</string>
+
+</strings>
